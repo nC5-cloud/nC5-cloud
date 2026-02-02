@@ -1,5 +1,5 @@
-# 💫 About Me:
-🧠 I’m currently working on:<br>Smart IoT-based automation projects utilizing ESP32, Arduino, and Raspberry Pi, while exploring Generative AI, Large Language Models (LLMs), and prompt engineering to understand how AI can enhance embedded and IoT development workflows.<br><br>🤝 I’m looking to collaborate on:<br>Open-source projects related to embedded systems, IoT solutions, or cloud-connected AI devices.<br><br>🌱 I’m currently learning:<br>Firmware Analysis, LoRa-based networking, and Oracle Cloud Infrastructure (OCI) for IoT integration and deployment.<br><br>💬 Ask me about:<br>IoT system design, ESP32 programming, circuit debugging, or AI applications in embedded hardware.
+#  About Me:
+I’m currently working on:<br>Smart IoT-based automation projects utilizing ESP32, Arduino, and Raspberry Pi, while exploring Generative AI, Large Language Models (LLMs), and prompt engineering to understand how AI can enhance embedded and IoT development workflows.<br><br>I’m looking to collaborate on:<br>Open-source projects related to embedded systems, IoT solutions, or cloud-connected AI devices.<br><br>🌱 I’m currently learning:<br>Firmware Analysis, LoRa-based networking, and Oracle Cloud Infrastructure (OCI) for IoT integration and deployment.<br><br>💬 Ask me about:<br>IoT system design, ESP32 programming, circuit debugging, or AI applications in embedded hardware.
 
 
 ## 🌐 Socials:
